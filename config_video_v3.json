@@ -1,6 +1,6 @@
 {
-    "is_on": false,
-    "is_banner": false, 
-    "clickToShowAds": 30,
+    "is_on": true,
+    "is_banner": true, 
+    "clickToShowAds": 3,
     "secret": "6f1963f27ac044fe9e51fc427262e195"
 }
